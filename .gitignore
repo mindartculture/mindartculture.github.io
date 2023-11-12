@@ -9,10 +9,12 @@ __pycache__
 dist
 build
 *.mo
+.history
 
 # Pelican
 output
 cache
+
 #develop_server.sh
 # If you are using a pelican theme installed via pip, uncomment the next line
 #pelican-themes
