@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Adventures in AI - learn</title><link href="/" rel="alternate"></link><link href="/feeds/learn.atom.xml" rel="self"></link><id>/</id><updated>2023-12-11T19:54:00+01:00</updated><entry><title>Learn new stuff</title><link href="/learn-today.html" rel="alternate"></link><published>2023-12-11T19:54:00+01:00</published><updated>2023-12-11T19:54:00+01:00</updated><author><name>hypnotix</name></author><id>tag:None,2023-12-11:/learn-today.html</id><summary type="html">&lt;p&gt;learn stuff&lt;/p&gt;</summary><content type="html">&lt;h1&gt;learn-today&lt;/h1&gt;
+&lt;h2&gt;basic markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;make my own cheatsheet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;basic git commands&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;pushing updates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;basic pelican&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;create a structure like category, post&lt;/li&gt;
+&lt;li&gt;create template&lt;/li&gt;
+&lt;li&gt;push to github&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;introduce some kind of english grammer/spellchecking&lt;/h2&gt;
+&lt;h2&gt;mechanism documenting learn progress&lt;/h2&gt;</content><category term="learn"></category><category term="pelican"></category><category term="publishing"></category><category term="markdown"></category></entry><entry><title>Stuff to learn</title><link href="/learn-skillset.html" rel="alternate"></link><published>2023-12-11T00:00:00+01:00</published><updated>2023-12-11T00:00:00+01:00</updated><author><name>hypnotix</name></author><id>tag:None,2023-12-11:/learn-skillset.html</id><summary type="html">&lt;p&gt;learn stuff&lt;/p&gt;</summary><content type="html">&lt;p&gt;1.) learn Markdown syntax
+2.) learn to create pelican+git workflow&lt;/p&gt;</content><category term="learn"></category><category term="pelican"></category><category term="publishing"></category><category term="markdown"></category><category term="learning"></category></entry><entry><title>Test article</title><link href="/test-article.html" rel="alternate"></link><published>2023-12-11T00:00:00+01:00</published><updated>2023-12-11T00:00:00+01:00</updated><author><name>hypnotix</name></author><id>tag:None,2023-12-11:/test-article.html</id><summary type="html">&lt;p&gt;test stuff&lt;/p&gt;</summary><content type="html">&lt;h1&gt;This is a article for testing purpose&lt;/h1&gt;
+&lt;p&gt;Consectetur esse reprehenderit nulla velit qui consectetur. Mollit proident excepteur minim elit enim. Laboris amet labore dolor incididunt sit dolor velit non. Velit duis consectetur cupidatat ea sunt aliquip. Labore ullamco et reprehenderit mollit incididunt pariatur ea eu. Magna do laboris sit officia ut mollit non pariatur nostrud dolore sint anim.&lt;/p&gt;</content><category term="learn"></category><category term="pelican"></category><category term="publishing"></category><category term="markdown"></category><category term="testing"></category></entry><entry><title>Test stuff</title><link href="/test-stuff.html" rel="alternate"></link><published>2023-12-11T00:00:00+01:00</published><updated>2023-12-11T00:00:00+01:00</updated><author><name>hypnotix</name></author><id>tag:None,2023-12-11:/test-stuff.html</id><summary type="html">&lt;p&gt;test stuff&lt;/p&gt;</summary><content type="html">&lt;h1&gt;H1&lt;/h1&gt;
+&lt;h2&gt;H2&lt;/h2&gt;
+&lt;h3&gt;H3&lt;/h3&gt;
+&lt;h4&gt;H4&lt;/h4&gt;
+&lt;h5&gt;H5&lt;/h5&gt;
+&lt;h6&gt;H6&lt;/h6&gt;
+&lt;p&gt;Alternatively, for H1 and H2, an underline-ish style:&lt;/p&gt;
+&lt;h1&gt;Alt-H1 ALT-H1&lt;/h1&gt;
+&lt;h2&gt;Alt-H2&lt;/h2&gt;</content><category term="learn"></category><category term="pelican"></category><category term="publishing"></category><category term="markdown"></category></entry></feed>
