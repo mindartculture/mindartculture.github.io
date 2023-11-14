@@ -20,69 +20,69 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://mindartculture.github.io/archives.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mindartculture.github.io/article/2023/gh/</loc>
+<loc>https://mindartculture.github.io/article/gh/</loc>
 <lastmod>2023-11-13T00:00:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.99</priority>
 </url>
 
 <url>
-<loc>https://mindartculture.github.io/article/2023/ghp-import/</loc>
+<loc>https://mindartculture.github.io/article/ghp-import/</loc>
 <lastmod>2023-11-13T00:00:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.99</priority>
 </url>
 
 <url>
-<loc>https://mindartculture.github.io/article/2023/learn-skillset/</loc>
+<loc>https://mindartculture.github.io/article/learn-skillset/</loc>
 <lastmod>2023-12-11T00:00:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.99</priority>
 </url>
 
 <url>
-<loc>https://mindartculture.github.io/article/2023/learn-today/</loc>
+<loc>https://mindartculture.github.io/article/learn-today/</loc>
 <lastmod>2023-12-11T19:54:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.99</priority>
 </url>
 
 <url>
-<loc>https://mindartculture.github.io/article/2023/pelican/</loc>
+<loc>https://mindartculture.github.io/article/pelican/</loc>
 <lastmod>2023-11-13T00:00:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.99</priority>
 </url>
 
 <url>
-<loc>https://mindartculture.github.io/article/2023/python/</loc>
+<loc>https://mindartculture.github.io/article/python/</loc>
 <lastmod>2023-11-13T00:00:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.99</priority>
 </url>
 
 <url>
-<loc>https://mindartculture.github.io/article/2023/test-article/</loc>
+<loc>https://mindartculture.github.io/article/test-article/</loc>
 <lastmod>2023-12-11T00:00:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.99</priority>
 </url>
 
 <url>
-<loc>https://mindartculture.github.io/article/2023/vscode-snippet/</loc>
+<loc>https://mindartculture.github.io/article/vscode-snippet/</loc>
 <lastmod>2023-11-14T00:00:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.99</priority>
 </url>
 
 <url>
-<loc>https://mindartculture.github.io/article/2023/zsh/</loc>
+<loc>https://mindartculture.github.io/article/zsh/</loc>
 <lastmod>2023-11-14T00:00:00+01:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.99</priority>
@@ -90,175 +90,175 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://mindartculture.github.io/author/hypnotix.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/author/mindartculture.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/authors.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/blog/</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/categories.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/category/git-github.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/category/learn.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/category/misc.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/category/pelican.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/category/python.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/category/vscode-snippet.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/category/zsh-shell.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/tag/automation.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/tag/learning.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/tag/markdown.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/tag/pelican.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/tag/publishing.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/tag/python.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/tag/snippet.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/tag/ssg.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/tag/testing.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/tag/tool.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/tag/tools.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/tag/zsh.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mindartculture.github.io/tags.html</loc>
-<lastmod>2023-11-14T07:10:32-00:00</lastmod>
+<lastmod>2023-11-14T07:14:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
